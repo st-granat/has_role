@@ -1,0 +1,4 @@
+en:
+  has_role:
+    admin: Administrator
+    user: User
