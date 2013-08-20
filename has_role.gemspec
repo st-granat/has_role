@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["railscode@gmail.com"]
   spec.description   = "Useful role methods for Rails User model"
   spec.summary       = "Useful role methods for Rails User model"
-  spec.homepage      = "https://github.com/vav/has_role"
+  spec.homepage      = "https://github.com/st-granat/has_role"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
